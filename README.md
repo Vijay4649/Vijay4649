@@ -1,4 +1,4 @@
-- <h1>👋 Hi, I’m @Vijay4649</h1>
+- <h1>👋 Hi, I’m Vijay Bochare</h1>
 - 👀 I’m Software Engineer 
 - 🌱 I’m currently learning Nextjs.
 - 💞️ I’m looking to collaborate on ...

@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 Passionate about Coding and learning New technology.
 - 😄 Pronouns: he/him...
-- ⚡ Fun fact: Rcb Forever
+
 
 -<img src="https://images.app.goo.gl/KhVv5sg1QcUXadrk7"></img>
 

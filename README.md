@@ -19,5 +19,5 @@ You can click the Preview link to take a look at your changes.
 
 <h1>Programing Skills</h1>
 <div style=" display :flex; justify-content:space-between;">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://icons8.com/icon/40669/c%2B%2B)https://icons8.com/icon/40669/c%2B%2B" width="25"/>
+  <img src="https://icons8.com/icon/40669/c%2B%2B" width="25"/>
 </div>

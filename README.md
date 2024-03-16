@@ -27,8 +27,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-#![image](https://github.com/Vijay4649/Vijay4649/assets/127034583/55be0fa2-0916-40f9-a2a7-9c76c4297e2b)
- Blog posts
+![image](https://github.com/Vijay4649/Vijay4649/assets/127034583/55be0fa2-0916-40f9-a2a7-9c76c4297e2b)
+ #Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

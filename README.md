@@ -17,19 +17,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1>Programing Skills</h1>
-<div style=" display :flex; justify-content:space-between;">
-  <img src="https://icons8.com/icon/40669/c%2B%2B" width="25"/>
-</div>
-
-
-<p align="center">
- <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:cioannou1997@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
-
-<br />
+<br>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Vijay4649.Vijay4649)
 [![Github](https://img.shields.io/github/followers/Vijay4649?label=Follow&style=social)](https://github.com/Vijay4649)

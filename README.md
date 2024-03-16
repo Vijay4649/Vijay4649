@@ -31,7 +31,8 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.Vijay4649)
+![](https://visitor-badge.laobi.icu/badge?page_id=Vijay4649.Vijay4649)
+[![Github](https://img.shields.io/github/followers/Vijay4649?label=Follow&style=social)](https://github.com/Vijay4649)
 
 ## 🧰 Languages and Tools:
 <p align="center">

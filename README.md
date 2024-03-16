@@ -1,4 +1,6 @@
-- <h1>👋 Hi, I’m Vijay Bochare</h1>
+<div align="center">
+  <h1 ">👋 Hi, I’m Vijay Bochare</h1>
+</div>
 - 👀 I’m Software Engineer  
 - 🌱 I’m currently learning Nextjs.
 - 💞️ I’m looking to collaborate on ...
@@ -33,9 +35,3 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:END -->
 
 
-<p align="center">
-    <br>
-    <img src="src/programming-languages.gif" alt="List of programming languages logos">
-    <br>
-    <br>
- 

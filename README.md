@@ -1,11 +1,14 @@
 <div align="center">
-  <h1 ">👋 Hi, I’m Vijay Bochare</h1>
+  <h1>👋 Hi, I’m Vijay Bochare</h1>
 </div>
-- 👀 I’m Software Engineer  
-- 🌱 I’m currently learning Nextjs.
-- 💞️ I’m looking to collaborate on ...
-- 📫 Passionate about Coding and learning New technology.
-- 😄 Pronouns: he/him...
+<ul>
+<li> 👀 I’m Software Engineer  </li>
+  <li>  🌱 I’m currently learning Reactjs, Nextjs and new techo.  </li>
+  <li> 💞️ I’m looking to collaborate on ...  </li>
+  <li> 📫 Passionate about Coding and learning New technology. </li>
+  <li>😄 Pronouns: he/him... </li>
+  <li>  👀 I’m Software Engineer  </li>
+</ul>
 
 
 <!---
